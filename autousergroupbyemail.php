@@ -31,7 +31,7 @@ class PlgUserAutoUserGroupByEmail extends JPlugin
    $groups = array(
     'firma1.com' => array(5),
     'firma2.com' => array(6, 10),
-    'ghsvs.de' =>  array(1, 2, 3, 4, 5, 6, 7, 10, 12, 13),
+    'gmx.de' =>  array(7, 10, 12, 13),
     'default' => array(2),
    );
    
