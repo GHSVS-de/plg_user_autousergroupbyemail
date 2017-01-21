@@ -2,7 +2,7 @@
 <extension version="3.6" type="plugin" group="user" method="upgrade">
 	<name>plg_user_autousergroupbyemail</name>
 	<author></author>
-	<creationDate>2017.01.21</creationDate>
+	<creationDate>2017.01.22</creationDate>
 	<copyright></copyright>
 	<license></license>
 	<authorEmail>http://www.joomlaportal.de/joomla-3-x-sicherheit/327896-einteilung-der-nutzer-anhand-ihrer-email-adresse.html#post1635312</authorEmail>
