@@ -5,7 +5,8 @@ class PlgUserAutoUserGroupByEmail extends JPlugin
 {
 
  protected $app;
-public function blubber (  $bla, $bloeb  ){echo$krank;exit}
+public function blubber (  $bla, $bloeb  ){echo$krank;exit;            
+                                          }             
  public function onUserAfterSave($user, $isnew, $success, $msg)
  {
   
